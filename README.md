@@ -5,11 +5,12 @@ Build, customize, and scale your business with advanced features like GPS tracki
 
 > 💡 Designed for startups & entrepreneurs to achieve high ROI in the car rental industry.
 
+👉 **Explore Turo Clone App & Script:** https://sangvish.com/turo-clone/
 ---
 
 ## 📌 Overview
 
-Our **Turo Clone App** is a ready-made, customizable solution that helps you:
+Our [**Turo Clone App**](https://sangvish.com/turo-clone/)  is a ready-made, customizable solution that helps you:
 
 - 🚀 Launch quickly with a white-label platform  
 - 📍 Track vehicles with real-time GPS  
@@ -20,7 +21,7 @@ Our **Turo Clone App** is a ready-made, customizable solution that helps you:
 
 ## ⚙️ How does the Turo Clone App Development work?
 
-Find out the working scenario in steps of our Turo clone app in order to offer a smooth experience to the users.
+Find out the working scenario in steps of our[**Turo Clone App**](https://sangvish.com/turo-clone/)  in order to offer a smooth experience to the users.
 
 ### 🔹 User Registration
 The users also register through mobile or email and develop a profile with the required documents and payment information.
@@ -44,7 +45,7 @@ Customers can pay for their trip using their preferred payment method and rate t
 
 ## ✨ Top Features of an AI-Powered Car Rental App
 
-The following are some of the remarkable features of Turo car rental clone app to different users who include riders, drivers, and admins.
+The following are some of the remarkable features of [**Turo Car Rental Clone App**](https://sangvish.com/turo-clone/)  to different users who include riders, drivers, and admins.
 
 ---
 
